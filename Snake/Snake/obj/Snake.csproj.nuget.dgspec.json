@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Snake-colab\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj": {}
+    "C:\\Users\\jiran\\Source\\Repos\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Snake-colab\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj": {
+    "C:\\Users\\jiran\\Source\\Repos\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Snake-colab\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\jiran\\Source\\Repos\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Snake-colab\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Snake-colab\\NovakBrixiKrepel\\Snake\\Snake\\obj\\",
+        "projectPath": "C:\\Users\\jiran\\Source\\Repos\\NovakBrixiKrepel\\Snake\\Snake\\Snake.csproj",
+        "packagesPath": "C:\\Users\\jiran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jiran\\Source\\Repos\\NovakBrixiKrepel\\Snake\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
